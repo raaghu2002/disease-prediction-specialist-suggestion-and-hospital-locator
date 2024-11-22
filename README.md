@@ -1,6 +1,6 @@
 
 
-### **Disease Prediction, Specialist Suggestion, and Hospital Finder**
+### **Disease Prediction, Specialist Suggestion, and Hospital Locator**
 
 #### **Overview**
 This application predicts diseases based on symptoms, suggests relevant specialists, and displays nearby hospitals using API integration. It leverages **Node.js**, **Python**, **EJS**, and **Machine Learning** for a seamless and user-friendly experience.
